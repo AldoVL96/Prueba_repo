@@ -1,5 +1,5 @@
 print ("Hola Bienvenidos a mi repo")
 
-def suma (a,b):
-    return a+b
+def suma (b,c):
+    return b+c
 print (suma)
